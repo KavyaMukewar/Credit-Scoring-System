@@ -1,4 +1,4 @@
-** CREDIT SCORING SYSTEM **
+CREDIT SCORING SYSTEM 
 
 This project focuses on developing a machine learning-driven credit scoring system to enhance credit risk analysis in the financial sector. Traditional credit scoring methods often rely on limited financial metrics, leading to suboptimal outcomes and an inability to dynamically monitor credit risk post-approval. This project addresses these limitations by creating a system that is both adaptive and inclusive, tailored to the diverse needs of financial institutions.
 
